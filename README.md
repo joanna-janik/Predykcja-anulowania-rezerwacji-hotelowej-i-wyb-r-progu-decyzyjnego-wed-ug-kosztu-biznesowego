@@ -1,1 +1,1 @@
-# Predykcja-anulowania-rezerwacji-hotelowej-i-wyb-r-progu-decyzyjnego-wed-ug-kosztu-biznesowego
+# Predykcja-anulowania-rezerwacji-hotelowej-i-wybor-progu-decyzyjnego-wedlug-kosztu-biznesowego
